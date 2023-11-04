@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.listItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  color: black;
+  font-size: 19px;
+  font-weight: bold;
+}
+.button {
+  color: red;
+  border: red 2px solid;
+}

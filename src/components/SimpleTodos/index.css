@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.div-container {
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.heading {
+  color: orange;
+  font-size: 28px;
+  font-weight: bold;
+}
